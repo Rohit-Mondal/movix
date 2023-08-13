@@ -10,7 +10,7 @@ import Home from './pages/home/Home';
 import Details from './pages/details/Details';
 import SearchResult from './pages/searchResult/SearchResult';
 import Explorer from './pages/explorer/Explorer';
-import PageNotFound from './pages/notFound/pageNotFound'
+import PageNotFound from './pages/notFound/PageNotFound.jsx'
 
 function App() {
   const dispatch = useDispatch()
